@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/amoCrm/static/css/main.0f79fd1a.css",
-    "main.js": "/amoCrm/static/js/main.c4581327.js",
+    "main.js": "/amoCrm/static/js/main.f3b8ab0c.js",
     "index.html": "/amoCrm/index.html",
     "main.0f79fd1a.css.map": "/amoCrm/static/css/main.0f79fd1a.css.map",
-    "main.c4581327.js.map": "/amoCrm/static/js/main.c4581327.js.map"
+    "main.f3b8ab0c.js.map": "/amoCrm/static/js/main.f3b8ab0c.js.map"
   },
   "entrypoints": [
     "static/css/main.0f79fd1a.css",
-    "static/js/main.c4581327.js"
+    "static/js/main.f3b8ab0c.js"
   ]
 }
