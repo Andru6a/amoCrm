@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Andru6a/amoCrm/static/css/main.f855e6bc.css",
+    "main.js": "/Andru6a/amoCrm/static/js/main.d7bab21b.js",
+    "static/js/453.6512e0a5.chunk.js": "/Andru6a/amoCrm/static/js/453.6512e0a5.chunk.js",
+    "static/media/logo.svg": "/Andru6a/amoCrm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Andru6a/amoCrm/index.html",
+    "main.f855e6bc.css.map": "/Andru6a/amoCrm/static/css/main.f855e6bc.css.map",
+    "main.d7bab21b.js.map": "/Andru6a/amoCrm/static/js/main.d7bab21b.js.map",
+    "453.6512e0a5.chunk.js.map": "/Andru6a/amoCrm/static/js/453.6512e0a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d7bab21b.js"
+  ]
+}
